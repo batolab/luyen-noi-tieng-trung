@@ -11,5 +11,6 @@ Tài liệu miễn phí đi kèm các tập podcast của Page **Nói Tiếng Tr
 | Bài | Tên bài | Thư mục |
 |---|---|---|
 | 01 | Tự giới thiệu trong 30 giây | series-a-cong-so-thuyet-trinh/bai-01-tu-gioi-thieu-30-giay/ |
+| 02 | Câu đệm & mở đầu không gượng | series-a-cong-so-thuyet-trinh/bai-02-cau-dem-mo-dau/ |
 
 Các series tiếp theo (đời sống, phỏng vấn & xin việc, du lịch, xã giao…) sẽ mở khi Series A chạy ổn định.
