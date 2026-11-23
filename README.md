@@ -16,5 +16,10 @@ Tài liệu miễn phí đi kèm các tập podcast của Page **Nói Tiếng Tr
 | 04 | Trọng âm câu & nhịp ngắt tự nhiên | series-a-cong-so-thuyet-trinh/bai-04-trong-am-nhip-ngat/ |
 | 05 | Nói về công việc hiện tại và vai trò của mình | series-a-cong-so-thuyet-trinh/bai-05-cong-viec-vai-tro/ |
 | 06 | Nói về kinh nghiệm và điểm mạnh | series-a-cong-so-thuyet-trinh/bai-06-kinh-nghiem-diem-manh/ |
+| 07 | Hỏi & trả lời câu hỏi làm quen | series-a-cong-so-thuyet-trinh/bai-07-small-talk-cong-so/ |
+| 08 | Giới thiệu một đồng nghiệp / một nhóm | series-a-cong-so-thuyet-trinh/bai-08-gioi-thieu-dong-nghiep/ |
+| 09 | Nói về mục tiêu nghề nghiệp ngắn gọn | series-a-cong-so-thuyet-trinh/bai-09-muc-tieu-nghe-nghiep/ |
+| 10 | Tổng kết GĐ1 — Bài giới thiệu hoàn chỉnh 1 phút | series-a-cong-so-thuyet-trinh/bai-10-tong-ket-giai-doan-1/ |
+| 11 | Báo cáo tiến độ công việc | series-a-cong-so-thuyet-trinh/bai-11-bao-cao-tien-do/ |
 
 Các series tiếp theo (đời sống, phỏng vấn & xin việc, du lịch, xã giao…) sẽ mở khi Series A chạy ổn định.
