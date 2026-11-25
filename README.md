@@ -21,5 +21,10 @@ Tài liệu miễn phí đi kèm các tập podcast của Page **Nói Tiếng Tr
 | 09 | Nói về mục tiêu nghề nghiệp ngắn gọn | series-a-cong-so-thuyet-trinh/bai-09-muc-tieu-nghe-nghiep/ |
 | 10 | Tổng kết GĐ1 — Bài giới thiệu hoàn chỉnh 1 phút | series-a-cong-so-thuyet-trinh/bai-10-tong-ket-giai-doan-1/ |
 | 11 | Báo cáo tiến độ công việc | series-a-cong-so-thuyet-trinh/bai-11-bao-cao-tien-do/ |
+| 12 | Nói số liệu & ngày tháng trong báo cáo | series-a-cong-so-thuyet-trinh/bai-12-noi-so-lieu-ngay-thang/ |
+| 13 | Báo cáo sự cố trong công việc | series-a-cong-so-thuyet-trinh/bai-13-bao-cao-su-co/ |
+| 14 | Báo cáo trễ tiến độ | series-a-cong-so-thuyet-trinh/bai-14-bao-cao-tre-tien-do/ |
+| 15 | Xin hỗ trợ trong công việc | series-a-cong-so-thuyet-trinh/bai-15-xin-ho-tro/ |
+| 16 | Tổng kết họp | series-a-cong-so-thuyet-trinh/bai-16-tong-ket-hop/ |
 
 Các series tiếp theo (đời sống, phỏng vấn & xin việc, du lịch, xã giao…) sẽ mở khi Series A chạy ổn định.
